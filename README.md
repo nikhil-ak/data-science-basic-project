@@ -17,3 +17,5 @@ Predicting the total amount spent by customers on an E-commerce website and to d
 
 
 ## 4.YouTube Adview
+
+To predict the total ad view count for YouTube videos, training using different regression models like Linear Regression model, Support Vector Regressor, Decision Tree Regressor, Random Forest model and Keras and selecting the best model with least root mean square error and highest positive r2 score.
